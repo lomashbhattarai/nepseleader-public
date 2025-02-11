@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nepseleader-public/static/css/main.0aeace67.css",
+    "main.js": "/nepseleader-public/static/js/main.e4d79d36.js",
+    "static/js/453.e7ad0c06.chunk.js": "/nepseleader-public/static/js/453.e7ad0c06.chunk.js",
+    "index.html": "/nepseleader-public/index.html",
+    "main.0aeace67.css.map": "/nepseleader-public/static/css/main.0aeace67.css.map",
+    "main.e4d79d36.js.map": "/nepseleader-public/static/js/main.e4d79d36.js.map",
+    "453.e7ad0c06.chunk.js.map": "/nepseleader-public/static/js/453.e7ad0c06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aeace67.css",
+    "static/js/main.e4d79d36.js"
+  ]
+}
